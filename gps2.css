@@ -7,7 +7,7 @@ a:hover {color:#839afa!important;transition: 0.3s;}
 div#app {width:80%;margin:auto;}
 .left-menu {position: sticky;top: 10.5%;margin-top: 5%;width:30%;background: #fff;font-weight: bold;padding:30px!important;font-size:10px;text-transform:lowercase!important;}
 
-div.left-menu::before {content: ''; height: 150px;display: block;background: url(https://ibb.co/S7M488W)no-repeat center/100%;background-blend-mode:screen ;margin-bottom:10px}
+div.left-menu::before {content: ''; height: 150px;display: block;background: url(https://i.ibb.co/JFGw440/photo-2023-11-29-10-45-37.jpg)no-repeat center/100%;background-blend-mode:screen ;margin-bottom:10px}
 
 h3.left-menu-text{font-size:0px!important;background:#fff!important}
 p {margin-top: 0;margin-bottom: 0;}
